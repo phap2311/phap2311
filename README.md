@@ -5,7 +5,7 @@
   <h3 align="center">A web developer from Vietnam</h3>
 </p>
 <br />
-## :mailbox: How to reach me:
+ :mailbox: How to reach me:
 <p align="center">
 
   <a href="https://www.facebook.com/ledang.phap" alt="Facebook">
@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
 </p>
-## Skills:
+ Skills:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
@@ -26,7 +26,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
-## Activities:
+ Activities:
 <table style="width:100%;">
   <tr>
     <td>
