@@ -1,6 +1,6 @@
 <img align="right" width="64" src="https://github.com/phap2311.png" />
 
-<h2 align="center">Hi :wave:, I'm PhapLD</h2>
+<h2 align="center">Hi :wave:, I'm Le Dang Phap</h2>
 <p align="center">
   <h3 align="center">A web developer from Vietnam</h3>
 </p>
